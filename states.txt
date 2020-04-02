@@ -5,4 +5,7 @@ Florida
 New York
 Texas
 California
-Massachusettes
+Massachusetts
+Ohio
+New Hampshire
+Rhode Island
